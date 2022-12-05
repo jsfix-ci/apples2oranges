@@ -32,7 +32,7 @@
         "react-scripts": "5.0.1",
         "react-spotify-web-playback": "^0.10.0",
         "spotify-web-api-node": "^5.0.2",
-        "web-vitals": "^2.1.4"
+        "web-vitals": "^3.1.0"
     },
     "scripts": {
         "install2": "npm install react-share --legacy-peer-deps",
